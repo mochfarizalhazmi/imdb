@@ -1,2 +1,2 @@
 # imdb
-Grocery is a grocery mobile app that developed using Flutter.
+IMDB is a internet movie database mobile app that developed using Flutter.
